@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karuhx&show_icons=true&locale=en&layout=compact" alt="k4ruhdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karuhx&" alt="k4ruhdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karuhx&" alt="karuhx" /></p>
 
